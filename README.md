@@ -7,9 +7,9 @@ Welcome to the **North Azure User Group (NAUG)** community event repository. Thi
 - 📋 Community event playbook and operational checklists
 - 🤝 Speaker and volunteer coordination
 
-**Want to speak?** Check the [Speaker Pipeline](#speaker-pipeline) section or reach out to the team.
+**Want to speak?** See [CONTRIBUTING.md](CONTRIBUTING.md) for our speaker submission process.
 
-**Event coming up?** Head to [Pre-Event Checklist](#pre-event-checklist-t-4-weeks-to-event-day) for next steps.
+**Looking for details?** Check out [FAQ.md](FAQ.md) for common questions about attending and speaking.
 
 ---
 
@@ -18,6 +18,8 @@ Welcome to the **North Azure User Group (NAUG)** community event repository. Thi
 - [2026 Meetup Schedule](#2026-meetup-schedule)
 - [Speaker Pipeline](#speaker-pipeline)
 - [Event Run of Show](#event-run-of-show)
+- [How to Get Involved](#how-to-get-involved)
+- [FAQ](#faq)
 - [Repository Structure](#repository-structure)
 - [Community Guidelines](#community-guidelines--code-of-conduct)
 
@@ -93,18 +95,56 @@ The aim of NAUG is to bring the IT community within Leeds, Manchester and surrou
 ```
 NAUG-Sessions/
 ├── README.md
-├── 2026/
-│   ├── May/
-│   │   ├── speaker1-talk-title.pdf
-│   │   └── speaker2-talk-title.pdf
-│   ├── June/
-│   └── ...
-└── assets/
-    ├── social-images/
-    ├── logos/
-    └── event-photos/
+├── CODE_OF_CONDUCT.md
+├── CONTRIBUTING.md
+├── FAQ.md
+├── LICENSE
+├── assets/
+│   ├── logos/             # NAUG logos and branding
+│   └── slide-templates/   # Slide templates for speakers
+├── events/
+│   ├── 2026/              # Current year events
+│   │   ├── May/
+│   │   │   ├── event-summary.md
+│   │   │   └── slides/
+│   │   ├── June/
+│   │   └── ...
+│   ├── 2025/              # Past events
+│   │   ├── May/
+│   │   └── ...
+│   └── archive/           # Events prior to 2025
+│       ├── 2024/
+│       ├── 2023/
+│       └── ...
 ```
 
-### Community Guidelines & Code of Conduct
+---
+
+## How to Get Involved
+
+### 🎤 Propose a Talk
+Interested in speaking? Get in touch via our [Meetup page](https://www.meetup.com/northern-azure-user-group) with your talk title, abstract, bio, and availability. See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+
+### 💬 Share Feedback
+Found a venue we should know about? Have ideas for future topics? Open an issue on GitHub or email us.
+
+### 📖 Contribute to This Repository
+Help us improve documentation or add event details. See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
+---
+
+## FAQ
+
+**Common questions?** Check [FAQ.md](FAQ.md) for answers about attending, speaking, and more.
+
+---
+
+## Community Guidelines & Code of Conduct
 
 📋 **See [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for our full Community Guidelines and Code of Conduct.**
+
+---
+
+## License
+
+This repository is licensed under [CC BY-NC 4.0](LICENSE). You are free to view and contribute, but the content may not be reused for commercial purposes. See [LICENSE](LICENSE) for full details.
