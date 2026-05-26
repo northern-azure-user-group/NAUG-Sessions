@@ -1,5 +1,5 @@
-# NAUG-Sessions
-Repo for all NAUG User group Event presentations
+# Northern Azure User Group (NAUG) - Community Event Repository
+Repo for all NAUG User group sessions, including speaker materials, recordings, and event resources.
 
 Welcome to the **North Azure User Group (NAUG)** community event repository. This is the central hub for:
 - 📅 Monthly meetup schedule and speaker information
