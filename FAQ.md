@@ -29,7 +29,8 @@ Just yourself! Bring a device if you'd like to make notes or follow along with d
 ### How do I propose a talk?
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for the full process. In short:
-- Reach out via our [Meetup page](https://www.meetup.com/northern-azure-user-group) with your talk proposal
+- Email **hello@naug.co.uk** with your talk proposal
+- Or reach out via our [Meetup page](https://www.meetup.com/northern-azure-user-group)
 - Include title, abstract, bio, and availability
 - Proposals reviewed 4 weeks before events
 
@@ -79,7 +80,7 @@ Create a GitHub issue describing your idea, or submit a pull request with change
 
 ## More Questions?
 
-Contact the NAUG organising team via our [Meetup page](https://www.meetup.com/northern-azure-user-group) or [raise a GitHub issue](../../issues/new)
+Contact the NAUG organising team at **hello@naug.co.uk**, via our [Meetup page](https://www.meetup.com/northern-azure-user-group), or [raise a GitHub issue](../../issues/new)
 
 ---
 

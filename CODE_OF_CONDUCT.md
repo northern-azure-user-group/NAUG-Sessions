@@ -42,4 +42,4 @@ We ask that all group members:
 
 ## Reporting Concerns
 
-Please report any concerns, suspicious activity, or disruptive behaviour to the NAUG organising team via our [Meetup page](https://www.meetup.com/northern-azure-user-group) or by [raising a GitHub issue](../../issues/new)
+Please report any concerns, suspicious activity, or disruptive behaviour to the NAUG organising team at **hello@naug.co.uk**, via our [Meetup page](https://www.meetup.com/northern-azure-user-group), or by [raising a GitHub issue](../../issues/new)

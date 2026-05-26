@@ -123,7 +123,7 @@ NAUG-Sessions/
 ## How to Get Involved
 
 ### 🎤 Propose a Talk
-Interested in speaking? Get in touch via our [Meetup page](https://www.meetup.com/northern-azure-user-group) with your talk title, abstract, bio, and availability. See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+Interested in speaking? Email **hello@naug.co.uk** or get in touch via our [Meetup page](https://www.meetup.com/northern-azure-user-group) with your talk title, abstract, bio, and availability. See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 ### 💬 Share Feedback
 Found a venue we should know about? Have ideas for future topics? Open an issue on GitHub or email us.

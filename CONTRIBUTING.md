@@ -9,6 +9,7 @@ Thank you for your interest in contributing to the Northern Azure User Group rep
 We're always looking for speakers! Here's how to submit:
 
 **Submit via:**
+- Email: **hello@naug.co.uk**
 - The NAUG organising team (contact details on our [Meetup page](https://www.meetup.com/northern-azure-user-group))
 - Or [raise a GitHub issue](../../issues/new) with your proposal
 
@@ -60,7 +61,7 @@ We welcome contributions to improve this repository! Here are some ways you can 
 
 ## Questions?
 
-Contact the NAUG organising team via our [Meetup page](https://www.meetup.com/northern-azure-user-group) or [raise a GitHub issue](../../issues/new).
+Contact the NAUG organising team at **hello@naug.co.uk**, via our [Meetup page](https://www.meetup.com/northern-azure-user-group), or [raise a GitHub issue](../../issues/new).
 
 ---
 
