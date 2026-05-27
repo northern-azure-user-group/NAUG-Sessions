@@ -8,7 +8,7 @@ Visit our Meetup page: https://www.meetup.com/northern-azure-user-group
 
 ### Where are events held?
 
-See [VENUES.md](VENUES.md) for details on our regular venues. Event locations are also listed in the schedule in [README.md](README.md).
+Event locations are listed in the schedule in [README.md](README.md).
 
 ### Is there a cost to attend?
 
