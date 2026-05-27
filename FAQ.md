@@ -66,9 +66,11 @@ NAUG-Sessions/
 ├── CODE_OF_CONDUCT.md
 ├── CONTRIBUTING.md (how to get involved)
 ├── events/
-│   ├── 2026/ (current year events)
-│   ├── 2025/ (past events)
-│   └── archive/ (older events)
+│   ├── 2025/
+│   │   └── 2025/ (2025 event content)
+│   └── archive/
+│       └── 2024/
+│           └── 2024/ (older event content)
 └── [Other docs]
 ```
 
