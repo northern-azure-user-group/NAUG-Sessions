@@ -67,10 +67,10 @@ NAUG-Sessions/
 ├── CONTRIBUTING.md (how to get involved)
 ├── events/
 │   ├── 2025/
-│   │   └── 2025/ (2025 event content)
+│   │   └── May/ (2025 event content)
 │   └── archive/
 │       └── 2024/
-│           └── 2024/ (older event content)
+│           └── May/ (older event content)
 └── [Other docs]
 ```
 
