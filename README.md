@@ -102,18 +102,19 @@ NAUG-Sessions/
 ├── assets/
 │   └── logos/             # NAUG logos and branding
 ├── events/
-│   ├── 2026/              # Current year events
-│   │   ├── May/
-│   │   │   ├── event-summary.md
-│   │   │   └── slides/
-│   │   ├── June/
-│   │   └── ...
-│   ├── 2025/              # Past events
-│   │   ├── May/
-│   │   └── ...
+│   ├── 2025/              # Current event content
+│   │   └── 2025/
+│   │       ├── May/
+│   │       │   ├── event-summary.md
+│   │       │   └── slides/
+│   │       └── ...
 │   └── archive/           # Events prior to 2025
 │       ├── 2024/
+│       │   └── 2024/
+│       │       └── ...
 │       ├── 2023/
+│       │   └── 2023/
+│       │       └── ...
 │       └── ...
 ```
 
