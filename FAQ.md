@@ -82,7 +82,7 @@ Create a GitHub issue describing your idea, or submit a pull request with change
 
 ## More Questions?
 
-Contact the NAUG organising team at **hello@naug.co.uk**, via our [Meetup page](https://www.meetup.com/northern-azure-user-group), or [raise a GitHub issue](../../issues/new)
+Contact the NAUG organising team at **hello@naug.co.uk**, via our [Meetup page](https://www.meetup.com/northern-azure-user-group), or [raise a GitHub issue](../../issues/new).
 
 ---
 
