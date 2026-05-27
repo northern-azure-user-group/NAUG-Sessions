@@ -16,7 +16,7 @@ NAUG events are **free** to attend. All are welcome!
 
 ### What if I can't make it to an in-person event?
 
-Currently, we hold in-person events only. We don't live-stream or record sessions, but you can stay updated on topics and speakers through this repository and our Meetup page.
+Currently, we focus on in-person events, so remote attendance is generally not available. You can still stay updated on topics, speakers, and any shared post-event materials through this repository and our Meetup page.
 
 ### What should I bring?
 
