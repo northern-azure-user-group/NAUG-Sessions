@@ -100,8 +100,7 @@ NAUG-Sessions/
 ├── FAQ.md
 ├── LICENSE
 ├── assets/
-│   ├── logos/             # NAUG logos and branding
-│   └── slide-templates/   # Slide templates for speakers
+│   └── logos/             # NAUG logos and branding
 ├── events/
 │   ├── 2026/              # Current year events
 │   │   ├── May/
